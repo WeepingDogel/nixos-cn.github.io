@@ -25,6 +25,9 @@ export default hopeTheme({
         <a href="https://matrix.to/#/#zh-cn:nixos.org" target="_blank">
           Matrix 群组
         </a> | 
+        <a href="https://meetup.nixos-cn.org" target="_blank">
+          Meetup 线下活动
+        </a> | 
         <a href="https://nixos.org/" target="_blank">
           NixOS 官网
         </a>`,
