@@ -11,7 +11,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "NixOS 中文 （狗子部署的）",
+      title: "NixOS 中文",
       description: "由 NixOS-CN 社区驱动",
     },
   },
